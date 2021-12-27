@@ -1,0 +1,47 @@
+body{
+    background-image: url("background6.jpg");
+    background-color: rgb(30, 131, 219);
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 28px;
+}
+h1{
+   
+}
+.centerDiv{
+    width: 800px;
+    height: 500px;
+    border-radius: 120px 60px;
+    
+    border-color: aquamarine;
+    
+    border-color: black;
+    border-width: 5px solid black;
+
+}
+.details{
+    padding-bottom: 30px;
+    padding-top: 20px;
+}
+.imagediv{
+    padding-bottom:30px;
+    
+    
+}
+#imgchange{
+    border-radius: 10px 10px;
+}
+.button{
+    width: 100px;
+    border-radius: 10px 10px;
+    height: 50px;
+}
+button:hover{
+    background-color: rgb(239, 253, 246);
+    font-style: oblique;
+    border-radius: 20px 20px;
+    font-size: 20px;
+}
+
+input:hover{
+          background-color: aquamarine;
+}
